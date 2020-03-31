@@ -1,15 +1,15 @@
 <?php
     //local development server connection
-    $dsn = 'mysql:host=localhost;dbname=zippyusedautos';
-    $username = 'root';
+   // $dsn = 'mysql:host=localhost;dbname=zippyusedautos';
+   // $username = 'root';
     //$password = 'pa55word';
 
     // Heroku connection
-    /*
-    $dsn = 'mysql:host=AVeryLongURLprovidedforJawsDBhost;dbname=YourJawsDBdbname';
-    $username = 'Your JawsDB username';
-    $password = 'Your JawsDB password';
-    */
+    
+    $dsn = 'mysql:host=zy4wtsaw3sjejnud.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	;dbname=f33okin59mld7tzf	';
+    $username = 'hu0wlnc966uyzjy4';
+    $password = 'cmtbdgfv39s2i8o1';
+    
     try {
         //local development server connection
         //if using a $password, add it as 3rd parameter
