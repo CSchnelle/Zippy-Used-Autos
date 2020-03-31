@@ -7,3 +7,7 @@
     <title>My Guitar Shop Customers</title>
     <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
+    
+    <body>
+        <header> Hello</header>
+    </body>
